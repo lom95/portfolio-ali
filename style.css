@@ -1,0 +1,171 @@
+body {
+    background-image: image-set("e.jpg");
+    background-size: cover;
+}
+
+.menu2 {
+    position: absolute;
+    text-decoration: none;
+    right: 800px;
+    font-size: 24px;
+    top: 20px;
+    color: rgb(255, 255, 255);
+}
+.menu1 {
+    position: absolute;
+    text-decoration: none;
+    right: 650px;
+    font-size: 24px;
+    top: 20px;
+    color: rgb(255, 255, 255);
+}
+.menu0 {
+    position: absolute;
+    right: 1050px;
+    top: 20px;
+    font-size: 24px;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+
+.menu0:hover {
+    transition: all 200ms ease-in-out;
+    color:coral;
+}
+.menu1:hover {
+    transition: all 200ms ease-in-out;
+    color:coral;
+    text-transform: uppercase;
+}
+.menu2:hover {
+    transition: all 200ms ease-in-out;
+    color:coral;
+    color:coral;
+
+}
+.text {
+    color: rgb(255, 255, 255);
+    position: absolute;
+    top: 50px;
+    width: 320px;
+}
+.menu3 {
+    position: absolute;
+    right: 450px;
+    font-size: 24px;
+    top: 20px;
+    text-decoration: none;
+    color: rgb(215, 216, 216);
+}
+.menu3:hover {
+    transition: all 200ms ease-in-out;
+    color:coral;
+
+}
+.logo {
+    position: absolute;
+    top: -80px;
+}
+
+.IT {
+    color: #ff014c;
+    font-size: 30px;
+    position: absolute;
+    top: -20px;
+    left: 65px;
+}
+.textAli {
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    position: absolute;
+    top: -20px;
+}
+
+body {
+font-family: 'Roboto', Arial, sans-serif;
+}
+
+.about {
+    color:rgb(255, 255, 255);
+    position: absolute;
+    top: 100px;
+}
+.nam1 {
+    font-weight: bold;
+}
+.p {
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    position: absolute;
+    top: 100px;
+    font-weight: lighter;
+    left: 150px;
+}
+.carta {
+    width: 400px;
+    height: 440px;
+    background: #17113b;
+    position: absolute;
+    top: 200px;
+    left: 270px;
+    border-radius: 5px;
+    }
+
+.carta0 {
+    width: 400px;
+    height: 440px;
+    background: #17113b;
+    border-radius: 5px;
+    position: absolute;
+    top: 200px;
+    left: 680px;
+}
+.carta1 {
+    width: 400px;
+    height: 440px;
+    background: #17113b;
+    border-radius: 5px;
+    position: absolute;
+    top: 200px;
+    left: 1090px;
+}
+.img {
+    position: absolute;
+    width: 400px;
+    height: 200px;
+    background-image: url("d.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 5px;
+}
+.menu21 {
+    background-color: #17113b;
+    width: 1538px;
+    height: 60px;
+    position: absolute;
+    left: -2px;
+    top: -3px;
+}
+.texttg {
+    color: white;
+    font-size:16px;
+    position: absolute;
+    top: 200px;
+    left:10px;
+}
+.img1 {
+    position: absolute;
+    width: 400px;
+    height: 200px;
+    background-image: url("f.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 5px;
+}
+.textsait {
+    color: white;
+    font-size:16px;
+    position: absolute;
+    top: 200px;
+    left:10px;
+}
